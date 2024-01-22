@@ -11,16 +11,12 @@ git clone https://github.com/guairo/igac.git
 
 Paso 2: Instala las Dependencias
 Instala las dependencias necesarias utilizando el siguiente comando:
-
-bash
-Copy code
 pip install Flask requests
+
 Paso 3: Ejecuta la Aplicación
 Ejecuta la aplicación con el siguiente comando:
-
-bash
-Copy code
 python app.py
+
 Paso 4: Accede a la Aplicación en tu Navegador
 Abre tu navegador web y visita http://localhost:5000/. Deberías ver la interfaz de usuario básica.
 
